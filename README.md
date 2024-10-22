@@ -8,6 +8,7 @@ go to the line 10 in the code & instead of 1800 & 1200 </div>
 
 - Custom sizes and heights
 - Cross-platform support (tested on Windows and Linux)
+- Tested in Processing 4.3 Java
 
 ## How to Run??
 <div> First you need to get the Processing 4.3 Java</div>
